@@ -41,6 +41,18 @@ ead:
   broker:
     exchange:
       userEvent: ead.userevent
+authuser:
+  refreshscope:
+    name: Micheli Brito
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+          - refresh
+          - health
+
     
     
 resilience4j:
