@@ -1,9 +1,9 @@
 ead:
   serviceRegistry:
     username: serviceregistryprod
-    password: '{cipher}b8d564063ab97ccbe646329d21e58701dd66947a9f115d112ae2829d5dd0b4bf'
+    password: 'z9A6EYC4GC'
   auth:
-    jwtSecret: '{cipher}ea16c20b50894d0a4405c4761dbe08cb5434af1921fa6069f7e5fa9ca74e23eede0d9ec112e8f13a07d1cfe197190e441864b9dfd78b6951d38574f3a321ff7e32e9603ad72911b4341ab2fd0ac1455d53721562692ce362ea88de9db9ecc114'
+    jwtSecret: 't7w!z%C*F-JaNdRgUkXp2s5v8x/A?D(G+KbPeShVmYq3t6w9z$B&E)H@McQfTjWn'
     jwtExpirationMs: 14400000
 
 eureka:
