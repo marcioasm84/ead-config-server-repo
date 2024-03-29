@@ -3,7 +3,7 @@ ead:
     username: serviceregistryprod
     password: 'z9A6EYC4GC'
   auth:
-    jwtSecret: 't7w!z%C*F-JaNdRgUkXp2s5v8x/A?D(G+KbPeShVmYq3t6w9z$B&E)H@McQfTjWn'
+    jwtSecret: 'w3owMA9W2TCbvmnI8jaVtB0CWqtoFZHYmaZ3n7upTgF3DkrMcvJa96d1Fr9HwvgBKIYWI98URG1wqvQDEdXNCe3XqEu32DsEIfbwWncMEujBBJ46K3xeeW8WGyk16gyi'
     jwtExpirationMs: 14400000
 
 eureka:
