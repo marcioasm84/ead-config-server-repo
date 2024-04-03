@@ -21,7 +21,7 @@ spring:
       hibernate:
         show_sql: true
   rabbitmq:
-    addresses: ${CLOUDAMPQ_URL}
+    addresses: ${CLOUDAMQPURL}
 ead:
   api:
     url:
