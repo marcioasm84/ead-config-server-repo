@@ -21,7 +21,7 @@ spring:
       hibernate:
         show_sql: true
   rabbitmq:
-    addresses: ${CLOUDAMQPURL}
+    addresses: amqps://btkohjcl:IJ9rLDdgBK5e8hE630wXLsFScJpq4Wq6@fish.rmq.cloudamqp.com/btkohjcl
   
 ead:
   broker:
