@@ -25,6 +25,15 @@ spring:
       enabled: always
   rabbitmq:
     addresses: amqps://xjyrnwad:xZz_ThHPUML9QEzB8ZLRc2yv2bVydR8p@jackal.rmq.cloudamqp.com/xjyrnwad
+
+
+logging:
+  level:
+    com.ead: INFO
+    root: INFO
+    org.springframework.web: INFO
+    org.hibernate: INFO
+
 ead:
   api:
     url:
